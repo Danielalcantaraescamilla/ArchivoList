@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 /**
  * que hice mal profe??
- * @author añex0
+ * @author alex0
  */
 public class Archivos {
     
